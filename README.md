@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/PratyashiN/Fake_news-Classification/blob/main/Fake_news_Classification.ipynb)
+(https://colab.research.google.com/github/PratyashiN/Fake_new_Classification/blob/main/Fake_news_Classification.ipynb)
 
 # Fake News Classification using LSTM
 
